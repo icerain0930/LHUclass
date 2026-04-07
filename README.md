@@ -11,9 +11,7 @@ _111_
 #include<iostream>
 ```
 ## 圖片要求
-**Initialization:**
-
-**ĥ** (0) = zeros(p)
+**Initialization:** **ĥ** (0) = zeros(p)
 
 **Computation: For n = 0, 1, 2, ...**
 
