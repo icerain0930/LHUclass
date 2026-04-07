@@ -11,7 +11,6 @@ _111_
 #include<iostream>
 ```
 ## 圖片要求
-```md
 **Initialization:**
 
 **ĥ** (0) = zeros(p)
@@ -24,4 +23,3 @@ e(n) = d(n) - **ĥ** ^H(n) **x** (n)
 
 **ĥ** (n+1) = **ĥ** (n) + (μ e*(n) **x** (n)) / ( **x** ^H(n) **x**(n))
 
-```
