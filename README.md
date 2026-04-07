@@ -11,7 +11,7 @@ _111_
 #include<iostream>
 ```
 ## 圖片要求
-```
+```markdown
 **Initialization:**
 
 **ĥ** (0) = zeros(p)
