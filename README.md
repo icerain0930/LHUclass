@@ -7,3 +7,15 @@
 ### h3
 - www
 - aaa
+#### 圖片要求
+**Initialization:**
+
+ĥ(0) = zeros(p)
+
+**Computation: For n = 0, 1, 2, ...**
+
+x(n) = [x(n), x(n-1), ..., x(n-p+1)]^T
+
+e(n) = d(n) - ĥ^H(n) x(n)
+
+ĥ(n+1) = ĥ(n) + (μ e*(n) x(n)) / (x^H(n) x(n))
