@@ -10,11 +10,11 @@
 #### 圖片要求
 **Initialization:**
 
-ĥ(0) = zeros(p)
+**ĥ**(0) = zeros(p)
 
 **Computation: For n = 0, 1, 2, ...**
 
-x(n) = [x(n), x(n-1), ..., x(n-p+1)]^T
+**x**(n) = [x(n), x(n-1), ..., x(n-p+1)]^T
 
 e(n) = d(n) - ĥ^H(n) x(n)
 
